@@ -1,0 +1,3 @@
+/Users/revilla/Documents/CLionProjects/restaurant/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/revilla/Documents/CLionProjects/restaurant/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/revilla/Documents/CLionProjects/restaurant/cmake-build-debug/CMakeFiles/restaurant.dir
